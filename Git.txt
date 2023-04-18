@@ -1,0 +1,33 @@
+What is Git?
+Git is a Version Control System that records the changes made to our code everytime in a special database called Repository
+
+The use of Repository:
+1) It can be used to check our project history and see who has made changes when and why
+
+2) It can be used to revert our project back to earlier stage
+
+Version Control System can be used in the following:
+1) Track Project History
+2) Work Together
+Version Control System fall into two Categories:
+1) Centralized System : All Team members connect to a server to get the code work but if the Server goes offline or fails, The Team members would not be able to
+collaborate with each other because they don'thave the copy of the project locally, until the server come online again which is a quite problem for the Team members.
+
+Examples:
+1) Subversion
+2) Team Fondation Server
+2) Distributed System : Every Team members have the copy of the project with its history locally on their machines  in case of if the Server goes offline or fails,
+and this is quite easy for the Team members because they can still access the files even though the server is offline.
+
+Examples:
+1) Git
+2) Mercurial
+
+Advantages of Git:
+1) Free
+2) Open Source
+3) Super Fast
+4) Scalable
+5) Cheap Branding / Merging
+
+
